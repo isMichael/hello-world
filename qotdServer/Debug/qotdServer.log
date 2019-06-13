@@ -1,0 +1,3 @@
+﻿  qotd.cpp
+c:\users\michael\source\repos\qotdserver\qotdserver\qotd.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  qotdServer.vcxproj -> C:\Users\Michael\source\repos\qotdServer\Debug\qotdServer.exe
